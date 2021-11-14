@@ -312,6 +312,8 @@ es: &DEFAULT_ES
         icon: "fab fa-facebook-f"
       - url: https://api.whatsapp.com/send?phone=34630592082
         icon: "fab fa-whatsapp"
+      - url: tel://630592082
+        icon: "fas fa-phone"  
 #      - url: https://linkedin.com
 #        icon: "fab fa-linkedin-in"
 #      - url: https://github.com/raviriley/agency-jekyll-theme
