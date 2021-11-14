@@ -172,8 +172,8 @@ es: &DEFAULT_ES
   header:
     title: ¡Bienvenido a nuestro Estudio!
     text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
+    button: Ver Productos
+    buttonlink: "#productos"
 
   services:
     title: "Servicios"
@@ -191,10 +191,10 @@ es: &DEFAULT_ES
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
+    title: "Lista de Productos"
+    text: "Actualmente vendemos estas comidas."
+    section: productos
+    closebutton: "Cerrar Producto"
 
   timeline:
     title: "Cronología"
@@ -312,7 +312,7 @@ es: &DEFAULT_ES
         icon: "fab fa-facebook-f"
       - url: https://api.whatsapp.com/send?phone=34630592082
         icon: "fab fa-whatsapp"
-      - url: tel://630592082
+      - url: tel://957591647
         icon: "fas fa-phone"  
 #      - url: https://linkedin.com
 #        icon: "fab fa-linkedin-in"
