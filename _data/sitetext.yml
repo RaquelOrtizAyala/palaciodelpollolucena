@@ -192,7 +192,7 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Lista de Productos"
-    text: "Actualmente vendemos estas comidas."
+    text: "Actualmente vendemos estas comidas preparadas."
     section: productos
     closebutton: "Cerrar Producto"
 
