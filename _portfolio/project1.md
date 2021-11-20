@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Pollo Kentucky
+subtitle:
+image: assets/img/portfolio/kentucky
+alt: Pollo Kentucky
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Pollo Kentucky
+  subtitle: 
+  thumbnail: assets/img/portfolio/kentucky
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Pollo rebosado al estilo Kentucky
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Precio 1 Ración: 8€
+- Precio 1/2 Ración: 4€ 
 
