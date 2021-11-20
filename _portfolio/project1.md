@@ -7,7 +7,7 @@ alt: Pollo Kentucky
 caption:
   title: Pollo Kentucky
   subtitle: 
-  thumbnail: assets/img/portfolio/kentucky.lpg
+  thumbnail: assets/img/portfolio/kentucky.jpg
 ---
 Pollo rebosado al estilo Kentucky
 
